@@ -28,6 +28,7 @@ export default defineConfig({
     }
   },
   css: {
+    // css 模块化
     modules: {
       localsConvention: 'camelCase'
     }
